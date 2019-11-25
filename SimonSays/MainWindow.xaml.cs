@@ -36,7 +36,7 @@ namespace SimonSays
             timer.Tick += Looper;
         }
         private void NumberGen()
-        {
+        {//
             Random ranGen = new Random();
             comparissonContent.Add(ranGen.Next(1, 5).ToString());
         }
