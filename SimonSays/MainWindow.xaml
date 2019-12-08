@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimonSays"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="500">
+        Title="MainWindow" Height="260" Width="365">
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top"  Orientation="Horizontal" Height="40" Width="250"  >
             <Button Content="Play game" Click="PlayClick" Width="250" />
